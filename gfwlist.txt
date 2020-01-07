@@ -19,7 +19,6 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
-||ytimg.com
 ||omegle.com
 ||gavlib.com
 ||agnesb.fr
