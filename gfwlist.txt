@@ -20,7 +20,7 @@
 |http://85.17.73.31/
 !--||adorama.com
 ||omegle.com
-||gavlib.com
+||javlib.com
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
