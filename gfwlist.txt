@@ -22,6 +22,7 @@
 ||afreecatv.com
 ||etherpad.org
 ||omegle.com
+||www.krea.ai
 ||javlib.com
 ||agnesb.fr
 ||akiba-web.com
