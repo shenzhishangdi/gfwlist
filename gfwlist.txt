@@ -19,6 +19,7 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||docker.com
 ||afreecatv.com
 ||etherpad.org
 ||omegle.com
