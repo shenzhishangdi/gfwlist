@@ -22,6 +22,7 @@
 ||docker.com
 ||afreecatv.com
 ||etherpad.org
+||x.com
 ||omegle.com
 ||www.krea.ai
 ||javlib.com
